@@ -1,3 +1,3 @@
 # kokoa
 
-css got much better
+html and css got much fun
